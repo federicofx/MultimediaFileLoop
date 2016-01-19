@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Frettmul</string>
+
+    <string name="str_text_according_tempo">Text According to Tempo</string>
+    <string name="str_reproduction_time">Reproduction Time\n(in milliseconds)</string>
+    <string name="str_loop_mode">Loop Mode</string>
+    <string name="str_start_loop">Start Loop</string>
+    <string name="str_end_loop">End Loop</string>
+</resources>
